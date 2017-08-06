@@ -1,6 +1,6 @@
 {
   "name": "node-excel-export",
-  "version": "1.4.2",
+  "version": "1.4.2.2",
   "description": "Node-Excel-Export",
   "main": "index.js",
   "scripts": {
@@ -20,6 +20,6 @@
   },
   "homepage": "https://github.com/andreyan-andreev/node-excel-export#readme",
   "dependencies": {
-    "xlsx": "^0.11.1"
+    "xlsx-style": "git://github.com/katima-g33k/js-xlsx.git#v0.8.13.1"
   }
 }
